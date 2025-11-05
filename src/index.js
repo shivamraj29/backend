@@ -1,5 +1,6 @@
 import dotenv from "dotenv";
 import connctDB from "./db/index.js";
+import { app } from "./app.js";
 
 
 dotenv.config({
